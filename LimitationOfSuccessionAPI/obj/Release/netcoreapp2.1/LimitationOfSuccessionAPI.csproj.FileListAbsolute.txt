@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\bin\Release\netcoreapp2.1\LimitationOfSuccessionAPI.deps.json
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\bin\Release\netcoreapp2.1\LimitationOfSuccessionAPI.runtimeconfig.json
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\bin\Release\netcoreapp2.1\LimitationOfSuccessionAPI.runtimeconfig.dev.json
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\bin\Release\netcoreapp2.1\LimitationOfSuccessionAPI.dll
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\bin\Release\netcoreapp2.1\LimitationOfSuccessionAPI.pdb
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.dll
+C:\Users\User\Desktop\API\LimitationOfSuccessionAPI\LimitationOfSuccessionAPI\obj\Release\netcoreapp2.1\LimitationOfSuccessionAPI.pdb
